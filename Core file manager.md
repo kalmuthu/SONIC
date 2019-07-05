@@ -38,6 +38,36 @@ Rev   |   Date   |  Author   | Change Description
 
 
 
+# About this Manual
+
+This document describes a core file mangement framework . This feature helps the framework enables platform vendors to rapidly develop the device specific custom drivers and SONiC user space python plugins, using a data driven architecture, to manage platform devices like Fan, PSUs, LEDs, Optics, System EEPROM, etc., and validate a platform on SONiC.
+
+# Scope
+
+This document describes the high level design details of PDDF and its components. The PDDF consists of generic device drivers and user space platform API plugins which use the per platform specific data in the JSON descriptor files. This document describes the interaction between all the components and the tools used to support these drivers and plugins.
+
+# Definition/Abbreviation
+
+### Table 1: Abbreviations
+
+
+| **Term** | **Meaning** |
+
+|--------------------------|-------------------------------------|
+
+| ODM | Original Design Manufacturer |
+
+| OEM | Original Equipment Manufacturer |
+
+| PDDF | Platform Driver Development Framework |
+
+| SAI | Switch Abstraction Interface |
+
+| PSU | Power Supply Unit |
+
+| I2C | Inter-integrated Circuit communication protocol |
+
+| SysFS | Virtual File System provided by the Linux Kernel |
 
 ## Introduction
 
@@ -222,5 +252,5 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI1MDE2OTcsMTg1MzU3NDIyNV19
+eyJoaXN0b3J5IjpbLTE4NTUxNzk1NDksMTg1MzU3NDIyNV19
 -->
