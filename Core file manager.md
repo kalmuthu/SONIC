@@ -40,7 +40,7 @@ Rev   |   Date   |  Author   | Change Description
 
 # About this Manual
 
-This document describes a core file mangement framework . This feature helps the framework enables platform vendors to rapidly develop the device specific custom drivers and SONiC user space python plugins, using a data driven architecture, to manage platform devices like Fan, PSUs, LEDs, Optics, System EEPROM, etc., and validate a platform on SONiC.
+This document describes a core file mangement framework . This feature helps the SONIC networking OS to manage the core generation and exporting them to an external server for better vendors to rapidly develop the device specific custom drivers and SONiC user space python plugins, using a data driven architecture, to manage platform devices like Fan, PSUs, LEDs, Optics, System EEPROM, etc., and validate a platform on SONiC.
 
 # Scope
 
@@ -252,5 +252,5 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTUxNzk1NDksMTg1MzU3NDIyNV19
+eyJoaXN0b3J5IjpbNjMwMzUwNzA2LDE4NTM1NzQyMjVdfQ==
 -->
