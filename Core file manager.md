@@ -6,7 +6,7 @@
 **Rev 0.1**
 
 
-# Introduction
+## Introduction
 
 
 This document describes various mechanisms to manage the core files that are generated in a SONiC environment. When a process is terminated unexpectedly, System generates the core dump of that process in most cases. The core files are stored on the persistent storage like SSDs. These core files need to be managed on the SONiC devices to optimize disk space usage, exported to remote server for offline analysis, etc.,
@@ -16,7 +16,7 @@ Core Manager Requirements
 > 2. Periodically export Core files to a remote server
 >3. Strip Core files of sensitive information
 
-# Core Dump Generation
+## Core Dump Generation
 
 1.  Core files are usually generated when process terminates unexpectedly. The conditions are access violations, termination signals (except SIGKILL), etc.,
 
@@ -189,5 +189,5 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzU1NDk1MywxODUzNTc0MjI1XX0=
+eyJoaXN0b3J5IjpbLTMzNzU2OTY1NSwxODUzNTc0MjI1XX0=
 -->
