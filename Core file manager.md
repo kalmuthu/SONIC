@@ -32,16 +32,15 @@
 # Revision
 
 
-| Rev \|  Date   | Author    | sdfsdf | 
-|----------|:-------------:|------:| 
-| Rev | Date \| Author \| Change Description |
+
+| Rev \|  Date   | Author    | Change Description | 
+| ----- | -----|:-------------:|------:| 
 
 
-| :---: | :-----------: | :------------------: | ----------------------------------- |
-
-| 0.1 | 07/05/2019 | Systems Infra Team | Initial version |
 | 0.2 |   | Systems Infra Team |   |
 |:---:|:-----------:|:------------------:|-----------------------------------|
+
+
 ## Introduction
 
 
@@ -225,5 +224,5 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTQ3OTI2OSwxODUzNTc0MjI1XX0=
+eyJoaXN0b3J5IjpbODQ5MDIzNzI4LDE4NTM1NzQyMjVdfQ==
 -->
