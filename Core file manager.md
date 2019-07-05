@@ -8,38 +8,36 @@
 ## Table of Contents
 
 * [List of Tables](#list-of-tables)
-
 * [Revision](#revision)
-
 * [About This Manual](#about-this-manual)
-
 * [Scope](#scope)
-
 * [Definition/Abbreviation](#definitionabbreviation)
-
 * [Requirements Overview](#requirements-overview)
-
 * [Functional Requirements](#functional-requirements)
-
 * [Scalability Requirements](#scalability-requirements)
-
 * [Warmboot Requirements](#warmboot-requirements)
-
 * [Configuration and Management Requirements](#configuration-and-management-requirements)
-
 * [Functional Description](#functional-description)
-
 * [Design](#design)
-
 * [Overview](#overview)
 * [CLI](#cli)
-
 * [Serviceability and DEBUG](#serviceability-and-debug)
-
 * [Warm Boot Support](#warm-boot-support)
-
 * [Unit Test](#unit-test)
-* 
+
+# List of Tables
+
+[Table 1: Abbreviations](#table-1-abbreviations)
+
+# Revision
+
+| Rev | Date | Author | Change Description |
+
+|:---:|:-----------:|:------------------:|-----------------------------------|
+
+| 0.1 | 07/05/2019 | Systems Infra Team | Initial version |
+
+| 0.2 |   | Systems Infra Team |   |
 ## Introduction
 
 
@@ -223,5 +221,5 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjI1OTc3MDgsMTg1MzU3NDIyNV19
+eyJoaXN0b3J5IjpbLTc1MzU3NzM1MSwxODUzNTc0MjI1XX0=
 -->
