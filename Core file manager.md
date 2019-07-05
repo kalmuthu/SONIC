@@ -32,12 +32,12 @@
 # Revision
 
 
-| Rev |   Date   |sdf   Author    |  
+| Rev |   Date   |sdf  \| Author    |  
 |----------|:-------------:|------:| 
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-|------|ASCII  |HTML |
+| | col 1 is |  left-aligned | $1600 |
+| | col 2 is |    centered   |   $12 |
+| | col 3 is | right-aligned |    $1 |
+| |------|ASCII  |HTML |
 
 | Rev | Date | Author | Change Description |
 
@@ -229,5 +229,5 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDE0NTM1OCwxODUzNTc0MjI1XX0=
+eyJoaXN0b3J5IjpbNzEwNzM5NjMwLDE4NTM1NzQyMjVdfQ==
 -->
