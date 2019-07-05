@@ -32,18 +32,10 @@
 # Revision
 
 Rev   | Date | Author    | Change Description
------ | ---- | ------    | ---------
-1.0  | saag paneer | medium | $11
-Sally  | vindaloo        | mild       | $14
-Erin   | lamb madras | HOT      | $5
+----- | ---- | ------:    | ---------:
+1.0   | 05/07/19 | Kalimuthu | Initial version
+2.0   |  |        |  
 
-
-| Rev \|  Date   | Author    | Change Description | 
-| ----- | -----|:-------------:|------:| 
-
-
-| 0.2 |   | Systems Infra Team |   |
-|:---:|:-----------:|:------------------:|-----------------------------------|
 
 
 ## Introduction
@@ -229,5 +221,5 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDYzMzA5MDMsMTg1MzU3NDIyNV19
+eyJoaXN0b3J5IjpbLTQ2NzIxOTEyNCwxODUzNTc0MjI1XX0=
 -->
