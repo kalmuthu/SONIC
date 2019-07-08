@@ -229,6 +229,12 @@ To enable export feature:
 
 This will export show tech-support data, on detection of a new core file. In addition, the data is also exported periodically.
 
+### CLI commands
+>##### sudo config export interval <interval in minutes>
+>where  interval can be 
+>> 0   =>  disable the periodic export of tech-support data
+>> <30 - 1440>  =>
+
 
 1.  To disable or change the periodic export interval, use the following command:
    
@@ -267,7 +273,7 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTQwOTc5MSwtNDYwODE0NzgsLTE2ND
-U2MTc3OTgsLTE1MjA4ODE4OTcsLTExNjQ2NDQwNiwtNDAzNzAx
-MDE2LDE4NTM1NzQyMjVdfQ==
+eyJoaXN0b3J5IjpbLTE3NjE3MDA3MTMsLTQ2MDgxNDc4LC0xNj
+Q1NjE3Nzk4LC0xNTIwODgxODk3LC0xMTY0NjQ0MDYsLTQwMzcw
+MTAxNiwxODUzNTc0MjI1XX0=
 -->
