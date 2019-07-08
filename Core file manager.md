@@ -18,7 +18,7 @@
 >>* [Warmboot Requirements](#warmboot-requirements)
 >>* [Configuration and Management Requirements](#configuration-and-management-requirements)
 * [Functional Description](#functional-description)
-* [Design](#design)
+>>* [Design](#design)
 >>* [Overview](#overview)
 * [CLI](#cli)
 * [Serviceability and DEBUG](#serviceability-and-debug)
@@ -260,7 +260,7 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNTYwNzAzNCwtMTY0NTYxNzc5OCwtMT
-UyMDg4MTg5NywtMTE2NDY0NDA2LC00MDM3MDEwMTYsMTg1MzU3
-NDIyNV19
+eyJoaXN0b3J5IjpbLTQ2MDgxNDc4LC0xNjQ1NjE3Nzk4LC0xNT
+IwODgxODk3LC0xMTY0NjQ0MDYsLTQwMzcwMTAxNiwxODUzNTc0
+MjI1XX0=
 -->
