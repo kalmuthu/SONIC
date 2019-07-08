@@ -51,11 +51,8 @@ This document describes the high level design details of core file manager frame
 
 
 | **Term** | **Meaning** |
-
-|--------------------------|-------------------------------------|
-
-| ODM | Original Design Manufacturer |
-
+|:--------------:|:-------------------------------------:|
+| tech-support | Original Design Manufacturer |
 | OEM | Original Equipment Manufacturer |
 
 | PDDF | Platform Driver Development Framework |
@@ -251,7 +248,7 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjI5MSwtMTY0NTYxNzc5OCwtMTUyMD
-g4MTg5NywtMTE2NDY0NDA2LC00MDM3MDEwMTYsMTg1MzU3NDIy
-NV19
+eyJoaXN0b3J5IjpbNjg2ODczMTczLC0xNjQ1NjE3Nzk4LC0xNT
+IwODgxODk3LC0xMTY0NjQ0MDYsLTQwMzcwMTAxNiwxODUzNTc0
+MjI1XX0=
 -->
