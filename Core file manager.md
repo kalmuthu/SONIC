@@ -70,11 +70,8 @@ Core Manager Requirements
 
 - To configure the core dump and tech-support data, export to an external server and to view the core details the following following config and show commands shall be supported
 ### Config commands:
->1. config to save the details of exporting tech-support data to an external server which includes server details, use.
->2. config command to enableOptic Transceivers (sonic_sfp)
-- EEPROM (sonic_eeprom)
-- LED (sonic_led)
-- Current SONiC platform CLIs shall be supported
+>1. config to save the details of exporting tech-support data to an external server which includes remote server name, path, transfer protocol type and the user credentials.
+>2. config command to enable/disable the techs
 
 ### 1.3 Scalability Requirements
 > NA
@@ -257,7 +254,7 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDE2NDM5MCwtMTY0NTYxNzc5OCwtMT
+eyJoaXN0b3J5IjpbMTY2NTkyMjgzNiwtMTY0NTYxNzc5OCwtMT
 UyMDg4MTg5NywtMTE2NDY0NDA2LC00MDM3MDEwMTYsMTg1MzU3
 NDIyNV19
 -->
