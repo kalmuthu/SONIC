@@ -43,7 +43,7 @@ This document describes a core file mangement framework in SONiC network operati
 
 # Scope
 
-This document describes the high level design details of core file manager framework that consists of core file and tech-support data generation framework. It also provides the exporting of  tech-support data to a remote server when a new core is generated and also on a perodic interval.  This document describes the the tools used to support these functionlity.
+This document describes the high level design details of core file manager framework that consists of core file and tech-support data generation framework. It also provides the exporting of  tech-support data to a remote server when a new core is generated and also on a perodic interval.  This document describes the the tools used to support for core file generation and export functionlity.
 
 # Definition/Abbreviation
 
@@ -251,7 +251,7 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTEyODE2MTksLTE2NDU2MTc3OTgsLT
-E1MjA4ODE4OTcsLTExNjQ2NDQwNiwtNDAzNzAxMDE2LDE4NTM1
-NzQyMjVdfQ==
+eyJoaXN0b3J5IjpbLTcyMjMyMjc3OSwtMTY0NTYxNzc5OCwtMT
+UyMDg4MTg5NywtMTE2NDY0NDA2LC00MDM3MDEwMTYsMTg1MzU3
+NDIyNV19
 -->
