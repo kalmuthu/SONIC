@@ -68,7 +68,7 @@ Core Manager Requirements
 
 ### 1.2 Configuration and Management Requirements
 
-- There are no configuration commands. The generic PDDF plugins use the base classes from src/sonic-platform-common for the following components:
+- Following configuration  base classes from src/sonic-platform-common for the following components:
 
 - PSU (sonic_psu)
 - Optic Transceivers (sonic_sfp)
@@ -77,10 +77,10 @@ Core Manager Requirements
 - Current SONiC platform CLIs shall be supported
 
 ### 1.3 Scalability Requirements
-NA
+> NA
 
 ### 1.4 Warmboot Requirements
-NA
+> NA
 
 ## 2 Functional Description
 
@@ -257,7 +257,7 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTk4ODQxMjYsLTE2NDU2MTc3OTgsLT
-E1MjA4ODE4OTcsLTExNjQ2NDQwNiwtNDAzNzAxMDE2LDE4NTM1
-NzQyMjVdfQ==
+eyJoaXN0b3J5IjpbMTU4Mzk3MTkyNCwtMTY0NTYxNzc5OCwtMT
+UyMDg4MTg5NywtMTE2NDY0NDA2LC00MDM3MDEwMTYsMTg1MzU3
+NDIyNV19
 -->
