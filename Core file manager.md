@@ -233,8 +233,7 @@ This will export show tech-support data, on detection of a new core file. In add
 >##### sudo config export interval <interval in minutes>
 >where  interval can be 
 >> 0   =>  disable the periodic export of tech-support data
->> <30 - 1440>  =>
-
+>> <30 - 1440>  => any value between 30 minutes to 24 hours. by default, 30 minutes is the export interval. 
 
 1.  To disable or change the periodic export interval, use the following command:
    
@@ -243,28 +242,6 @@ This will export show tech-support data, on detection of a new core file. In add
 >##### sudo config export interval 60 (To change it to one hour)
   
 
-# Stripping Sensitive Information from Core files
-
-Process might store sensitive information like username, password, remote server address, path, server credentials etc. as part of the running process memory which includes stack, heap and process and file map areas. Any such information should be evaluated and checked for the alternative storage like database, encrypted form or salt manipulated with time so that the sensitive data is not readable by the end user even if process is attached to gdb or any other debug tools.
-
-Plain text manipulation:
-
-		char *user_passwd = read_user_password()
-		char *sys_passwd= read_sys_passwd()
-		if(compare(user_passwd,sys_passwd))
-		{ // Password match }
-
-Cryptic manipulation:
-
-		char *user_passwd = read_user_password_encrypted()
-		char *sys_passwd= read_sys_passwd_encrypted()
-		if(compare(user_passwd,sys_passwd))
-		{ // Password match }
-
- 
-In addition, the list of processes that store sensitive information should be identified. When core dump is generated from any of those processes, sensitive info should be removed from the core file by running an external script/tool. The tool will analyze the core dump file for sensitive information and replace it empty string. However, this requires specialized knowledge of the process, and the fields inside which might contain these and masking them using an external tool. This is cumbersome and is a maintenance overhead.
-
-  
 
 # UT report
 
@@ -273,7 +250,7 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjE3MDA3MTMsLTQ2MDgxNDc4LC0xNj
+eyJoaXN0b3J5IjpbLTE4MDI3MDA1NzEsLTQ2MDgxNDc4LC0xNj
 Q1NjE3Nzk4LC0xNTIwODgxODk3LC0xMTY0NjQ0MDYsLTQwMzcw
 MTAxNiwxODUzNTc0MjI1XX0=
 -->
