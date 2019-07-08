@@ -76,7 +76,9 @@ Core Manager Requirements
 >3. Config command  configure the tech-support export peroidic interval.
 
 ### Show commands
-> 1. Show command to di
+> 1. Show commands to display the core file information
+> 2. show commands to display the tect-support export details.
+ 
 ### 1.3 Scalability Requirements
 > NA
 
@@ -258,7 +260,7 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDc5Mjg1OCwtMTY0NTYxNzc5OCwtMT
-UyMDg4MTg5NywtMTE2NDY0NDA2LC00MDM3MDEwMTYsMTg1MzU3
-NDIyNV19
+eyJoaXN0b3J5IjpbNjY5MzY4MzI3LC0xNjQ1NjE3Nzk4LC0xNT
+IwODgxODk3LC0xMTY0NjQ0MDYsLTQwMzcwMTAxNiwxODUzNTc0
+MjI1XX0=
 -->
