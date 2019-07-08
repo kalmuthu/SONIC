@@ -219,10 +219,14 @@ To enable export feature:
 ### CLI commands
 
 >##### sudo config export server username destdir protocol <server_ip> <username> <destination-directory> <scp|sftp>
->>username => remote server username
->> destdir      => destination server directory 
->>> 
+>>
+>> server    => Name of the remote server to upload the tech-support data
+>> username => remote server username
+>> destdir      => destination server upload directory  path
+>> protocol => transfer protocol either SCP/SFTP
+
 >##### sudo config export <enable|disable>
+>
 
 This will export show tech-support data, on detection of a new core file. In addition, the data is periodically exported every 30 minutes.
 
@@ -263,7 +267,7 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3Njg4NjA1OCwtNDYwODE0NzgsLTE2ND
+eyJoaXN0b3J5IjpbMTU0MzczMTQ5OCwtNDYwODE0NzgsLTE2ND
 U2MTc3OTgsLTE1MjA4ODE4OTcsLTExNjQ2NDQwNiwtNDAzNzAx
 MDE2LDE4NTM1NzQyMjVdfQ==
 -->
