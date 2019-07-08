@@ -50,16 +50,16 @@ This document describes the high level design details of core file manager frame
 ### Table 1: Abbreviations
 
 
-| **Term** | **Meaning** |
-|:--------------:|:-------------------------------------:|
-| tech-support | Original Design Manufacturer |
-| SCP | Secure Copy Protocol |
-| SFTP | Secure File Transfer Protocol |
+| **Term**     |  **Meaning**                  |
+|:-------------|:-----------------------------:|
+| tech-support | Original Design Manufacturer  |
+| SCP          | Secure Copy Protocol          |
+| SFTP         | Secure File Transfer Protocol |
 
 
 ## 1 Requirements Overview
 
-SONiC OS is portable across different network devices with supported ASIC via Switch Abstraction Interface (SAI). These devices primarily differ in the way various device specific hardware components are accessed, and thus require custom device drivers and python plugins. Each platform vendor implements these custom device drivers and plugins. The feature requirement is to support a SONiC platform driver development framework to enable rapid development of custom device drivers and plugins.
+SONIC OS is portable across different network devices with supported ASIC via Switch Abstraction Interface (SAI). These devices primarily differ in the way various device specific hardware components are accessed, and thus require custom device drivers and python plugins. Each platform vendor implements these custom device drivers and plugins. The feature requirement is to support a SONiC platform driver development framework to enable rapid development of custom device drivers and plugins.
 
 
 ## Introduction
@@ -245,7 +245,7 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxOTgzMjQ2LC0xNjQ1NjE3Nzk4LC0xNT
+eyJoaXN0b3J5IjpbMTMzMDUwMjA1LC0xNjQ1NjE3Nzk4LC0xNT
 IwODgxODk3LC0xMTY0NjQ0MDYsLTQwMzcwMTAxNiwxODUzNTc0
 MjI1XX0=
 -->
