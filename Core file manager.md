@@ -66,6 +66,24 @@ Core Manager Requirements
 > 2. Periodically export Core files to a remote server
 >3. Strip Core files of sensitive information
 
+### 1.2 Configuration and Management Requirements
+
+- There are no configuration commands. The generic PDDF plugins use the base classes from src/sonic-platform-common for the following components:
+
+- PSU (sonic_psu)
+- Optic Transceivers (sonic_sfp)
+- EEPROM (sonic_eeprom)
+- LED (sonic_led)
+- Current SONiC platform CLIs shall be supported
+
+### 1.3 Scalability Requirements
+NA
+
+### 1.4 Warmboot Requirements
+NA
+
+## 2 Functional Description
+
 ## Core Dump Generation
 
 1.  Core files are usually generated when process terminates unexpectedly. The conditions are access violations, termination signals (except SIGKILL), etc.,
@@ -239,7 +257,7 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTM1NDc2NywtMTY0NTYxNzc5OCwtMT
-UyMDg4MTg5NywtMTE2NDY0NDA2LC00MDM3MDEwMTYsMTg1MzU3
-NDIyNV19
+eyJoaXN0b3J5IjpbLTExOTk4ODQxMjYsLTE2NDU2MTc3OTgsLT
+E1MjA4ODE4OTcsLTExNjQ2NDQwNiwtNDAzNzAxMDE2LDE4NTM1
+NzQyMjVdfQ==
 -->
