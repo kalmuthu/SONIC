@@ -93,7 +93,7 @@ Core Manager Requirements
 
 ## Core Dump Generation
 
-1.  Core files are usually generated when process terminates unexpectedly. The conditions are access violations, termination signals (except SIGKILL), etc.,
+1.  Core files are usually generated when process terminates unexpectedly. Typical conditions are access violations, termination signals (except SIGKILL), etc.,
 
 3.  It should also be noted that processes might handle some signals, and may not generate core. We need to look at these in SONiC and make sure core files are generated for appropriate signals.
 
@@ -254,8 +254,8 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODM2MTYzNywzMzgzNjc0NDUsLTQ1MT
-c5MjY2NywtMTgwMjcwMDU3MSwtNDYwODE0NzgsLTE2NDU2MTc3
-OTgsLTE1MjA4ODE4OTcsLTExNjQ2NDQwNiwtNDAzNzAxMDE2LD
-E4NTM1NzQyMjVdfQ==
+eyJoaXN0b3J5IjpbMzc4Mzk1MTMwLDMzODM2NzQ0NSwtNDUxNz
+kyNjY3LC0xODAyNzAwNTcxLC00NjA4MTQ3OCwtMTY0NTYxNzc5
+OCwtMTUyMDg4MTg5NywtMTE2NDY0NDA2LC00MDM3MDEwMTYsMT
+g1MzU3NDIyNV19
 -->
