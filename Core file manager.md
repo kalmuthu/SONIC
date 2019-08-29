@@ -69,6 +69,7 @@ Core Manager Requirements
           b. Periodically export Core files to a remote server
   3. Strip Core files of sensitive information
   4. Collect tech-support data when a new core dump is discovered, and manage/export it with the core dump
+  5. Periodically collect/export tech-support data
 
 ### 1.2 Configuration and Management Requirements
 
@@ -254,8 +255,8 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3Nzg0MzQ0MiwtNDUxNzkyNjY3LC0xOD
-AyNzAwNTcxLC00NjA4MTQ3OCwtMTY0NTYxNzc5OCwtMTUyMDg4
-MTg5NywtMTE2NDY0NDA2LC00MDM3MDEwMTYsMTg1MzU3NDIyNV
-19
+eyJoaXN0b3J5IjpbMzM4MzY3NDQ1LC00NTE3OTI2NjcsLTE4MD
+I3MDA1NzEsLTQ2MDgxNDc4LC0xNjQ1NjE3Nzk4LC0xNTIwODgx
+ODk3LC0xMTY0NjQ0MDYsLTQwMzcwMTAxNiwxODUzNTc0MjI1XX
+0=
 -->
