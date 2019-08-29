@@ -77,11 +77,11 @@ Core Manager Requirements
 ### Config commands
 >1. Config command to save the details of exporting tech-support data to an external server which includes remote server name, path, transfer protocol type and the user credentials.
 >2. Config command to enable/disable the tech-support export
->3. Config command  configure the tech-support export peroidic interval.
+>3. Config command  configure the tech-support export periodic interval.
 
 ### Show commands
 > 1. Show commands to display the core file information
-> 2. show commands to display the tect-support export details.
+> 2. show commands to display the tech-support export details.
  
 ### 1.3 Scalability Requirements
 > NA
@@ -254,7 +254,7 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTM2NzA5MSwzMzgzNjc0NDUsLTQ1MT
+eyJoaXN0b3J5IjpbLTk2ODM2MTYzNywzMzgzNjc0NDUsLTQ1MT
 c5MjY2NywtMTgwMjcwMDU3MSwtNDYwODE0NzgsLTE2NDU2MTc3
 OTgsLTE1MjA4ODE4OTcsLTExNjQ2NDQwNiwtNDAzNzAxMDE2LD
 E4NTM1NzQyMjVdfQ==
