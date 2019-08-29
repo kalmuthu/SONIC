@@ -52,7 +52,7 @@ This document describes the high level design details of core file manager frame
 
 | **Term**     |  **Meaning**                  |
 |:-------------|:------------------------------|
-| tech-support | Original Design Manufacturer  |
+| tech-support | Techni support Original Design Manufacturer  |
 | SCP          | Secure Copy Protocol          |
 | SFTP         | Secure File Transfer Protocol |
 
@@ -250,7 +250,7 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDk2OTgwOSwtNDUxNzkyNjY3LC0xOD
+eyJoaXN0b3J5IjpbLTI4NjU4NzM2NywtNDUxNzkyNjY3LC0xOD
 AyNzAwNTcxLC00NjA4MTQ3OCwtMTY0NTYxNzc5OCwtMTUyMDg4
 MTg5NywtMTE2NDY0NDA2LC00MDM3MDEwMTYsMTg1MzU3NDIyNV
 19
