@@ -13,13 +13,13 @@
 * [Scope](#scope)
 * [Definition/Abbreviation](#definitionabbreviation)
 * [Requirements Overview](#requirements-overview)
->>* [Functional Requirements](#functional-requirements)
->>* [Scalability Requirements](#scalability-requirements)
->>* [Warmboot Requirements](#warmboot-requirements)
->>* [Configuration and Management Requirements](#configuration-and-management-requirements)
+  * [Functional Requirements](#functional-requirements)
+  * [Scalability Requirements](#scalability-requirements)
+  * [Warmboot Requirements](#warmboot-requirements)
+  * [Configuration and Management Requirements](#configuration-and-management-requirements)
 * [Functional Description](#functional-description)
->>* [Design](#design)
->>* [Overview](#overview)
+  * [Design](#design)
+  * [Overview](#overview)
 * [CLI](#cli)
 * [Serviceability and DEBUG](#serviceability-and-debug)
 * [Warm Boot Support](#warm-boot-support)
@@ -250,7 +250,7 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI3MDA1NzEsLTQ2MDgxNDc4LC0xNj
-Q1NjE3Nzk4LC0xNTIwODgxODk3LC0xMTY0NjQ0MDYsLTQwMzcw
-MTAxNiwxODUzNTc0MjI1XX0=
+eyJoaXN0b3J5IjpbLTQ1MTc5MjY2NywtMTgwMjcwMDU3MSwtND
+YwODE0NzgsLTE2NDU2MTc3OTgsLTE1MjA4ODE4OTcsLTExNjQ2
+NDQwNiwtNDAzNzAxMDE2LDE4NTM1NzQyMjVdfQ==
 -->
