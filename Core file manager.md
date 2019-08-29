@@ -39,7 +39,7 @@ Rev   |   Date   |  Author   | Change Description
 
 # About this Manual
 
-This document describes a core file mangement framework in SONiC network operating system. This feature helps to manage the  generation of core file  and exporting them to an external server for better debuggability.
+This document describes a core file management framework in SONiC network operating system. This feature helps to manage the  generation of core files  and exporting them to an external server for better debuggability.
 
 # Scope
 
@@ -250,7 +250,8 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTc5MjY2NywtMTgwMjcwMDU3MSwtND
-YwODE0NzgsLTE2NDU2MTc3OTgsLTE1MjA4ODE4OTcsLTExNjQ2
-NDQwNiwtNDAzNzAxMDE2LDE4NTM1NzQyMjVdfQ==
+eyJoaXN0b3J5IjpbMjAwMDk2OTgwOSwtNDUxNzkyNjY3LC0xOD
+AyNzAwNTcxLC00NjA4MTQ3OCwtMTY0NTYxNzc5OCwtMTUyMDg4
+MTg5NywtMTE2NDY0NDA2LC00MDM3MDEwMTYsMTg1MzU3NDIyNV
+19
 -->
