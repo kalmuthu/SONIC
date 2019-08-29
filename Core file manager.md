@@ -63,7 +63,8 @@ This document describes new mechanisms to manage the core files that are generat
 
 Core Manager Requirements
 
->1. Support Per process Core file rotation and archiving to optimize disk space
+>1. Add the systemd-coredump service to the SONiC build, along with the coredumpctl management tool. This manages core dump generation and disk utilization.
+>2.  Support Per process Core file rotation and archiving to optimize disk space
 > 2. Periodically export Core files to a remote server
 >3. Strip Core files of sensitive information
 
@@ -251,8 +252,8 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0MDk5ODY4LC00NTE3OTI2NjcsLTE4MD
-I3MDA1NzEsLTQ2MDgxNDc4LC0xNjQ1NjE3Nzk4LC0xNTIwODgx
-ODk3LC0xMTY0NjQ0MDYsLTQwMzcwMTAxNiwxODUzNTc0MjI1XX
-0=
+eyJoaXN0b3J5IjpbNjMxMjU5MDYsLTQ1MTc5MjY2NywtMTgwMj
+cwMDU3MSwtNDYwODE0NzgsLTE2NDU2MTc3OTgsLTE1MjA4ODE4
+OTcsLTExNjQ2NDQwNiwtNDAzNzAxMDE2LDE4NTM1NzQyMjVdfQ
+==
 -->
