@@ -59,7 +59,7 @@ This document describes the high level design details of core file manager frame
 
 ## 1 Requirements Overview
 
-This document describes various mechanisms to manage the core files that are generated in a SONiC environment. When a process is terminated unexpectedly, System generates the core dump of that process in most cases. The core files are stored on the persistent storage like SSDs. These core files need to be managed on the SONiC devices to optimize disk space usage, exported to remote server for offline analysis, etc.,
+This document describes new mechanisms to manage the core files that are generated in a SONiC environment. When a process is terminated unexpectedly, the System generates the core dump of that process in most cases. The core files are stored on the persistent storage like SSDs. These core files need to be managed on the SONiC devices to optimize disk space usage, exported to remote server for offline analysis, etc.,
 Core Manager Requirements
 
 >1. Support Per process Core file rotation and archiving to optimize disk space
@@ -250,8 +250,8 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwNzE1MTI3LC00NTE3OTI2NjcsLTE4MD
-I3MDA1NzEsLTQ2MDgxNDc4LC0xNjQ1NjE3Nzk4LC0xNTIwODgx
-ODk3LC0xMTY0NjQ0MDYsLTQwMzcwMTAxNiwxODUzNTc0MjI1XX
-0=
+eyJoaXN0b3J5IjpbMTMxODU4OTU1MywtNDUxNzkyNjY3LC0xOD
+AyNzAwNTcxLC00NjA4MTQ3OCwtMTY0NTYxNzc5OCwtMTUyMDg4
+MTg5NywtMTE2NDY0NDA2LC00MDM3MDEwMTYsMTg1MzU3NDIyNV
+19
 -->
