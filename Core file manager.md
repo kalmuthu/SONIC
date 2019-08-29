@@ -139,7 +139,7 @@ Display list of current core files available and their information. This is a wr
 
 Enable or disable coredump functionality. This configuration entry will be part of Config DB and thus can be stored as part of startup-configuration.
 
-When disbaled, this command will set ProcessSizeMax=0 in the /etc/systemd/coredump.conf file. When enabled this command will set ProcessSizeMax to be the same value as ExternalSizeMax.
+When disabled, this command will set ProcessSizeMax=0 in the /etc/systemd/coredump.conf file. When enabled this command will set ProcessSizeMax to be the same value as ExternalSizeMax.
  
 Current SONiC code has some basic support for generation and compression of core files. Once systemd-coredump package is included in SONiC image, current functionality is removed.
 
@@ -252,8 +252,8 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyMzI4MTIxLDMzODM2NzQ0NSwtNDUxNz
-kyNjY3LC0xODAyNzAwNTcxLC00NjA4MTQ3OCwtMTY0NTYxNzc5
-OCwtMTUyMDg4MTg5NywtMTE2NDY0NDA2LC00MDM3MDEwMTYsMT
-g1MzU3NDIyNV19
+eyJoaXN0b3J5IjpbLTgxODAyMjE3LDM1MjMyODEyMSwzMzgzNj
+c0NDUsLTQ1MTc5MjY2NywtMTgwMjcwMDU3MSwtNDYwODE0Nzgs
+LTE2NDU2MTc3OTgsLTE1MjA4ODE4OTcsLTExNjQ2NDQwNiwtND
+AzNzAxMDE2LDE4NTM1NzQyMjVdfQ==
 -->
