@@ -95,11 +95,9 @@ Core Manager Requirements
 
 1.  Core files are usually generated when process terminates unexpectedly. Typical conditions are access violations, termination signals (except SIGKILL), etc.,
 
-3.  It should also be noted that processes might handle some signals, and may not generate core. We need to look at these in SONiC and make sure core files are generated for appropriate signals.
+2.  Ulimit configuration might prevent generation of core due to size configurations. We need to ensure this is not the case.
 
-4.  Ulimit configuration might prevent generation of core due to size configurations. We need to ensure this is not the case.
-
-5.  Service restart functions - will not generate the core dump as it handle the graceful stop and start. This includes docker service restart as well.
+3.  Service restart functions - will not generate the core dump as it handle the graceful stop and start. This includes docker service restart as well.
 
 # systemd-coredump
 
@@ -254,7 +252,7 @@ https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4Mzk1MTMwLDMzODM2NzQ0NSwtNDUxNz
+eyJoaXN0b3J5IjpbMzUyMzI4MTIxLDMzODM2NzQ0NSwtNDUxNz
 kyNjY3LC0xODAyNzAwNTcxLC00NjA4MTQ3OCwtMTY0NTYxNzc5
 OCwtMTUyMDg4MTg5NywtMTE2NDY0NDA2LC00MDM3MDEwMTYsMT
 g1MzU3NDIyNV19
