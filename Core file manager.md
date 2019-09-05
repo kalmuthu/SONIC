@@ -265,7 +265,7 @@ When core file is generated for the same process multiple times, the framework s
 
 The archived core file is generated in a pre-defined format by the systemd-coredump tool.
 
-Format: core.<program-name>.<uid>.<boot-id>.<PID>.<timestamp>
+Format: core.\<program-name\>.\<uid\>.\<boot-id\>.\<PID\>.\<timestamp\>
 
 Examples:
 
@@ -299,10 +299,11 @@ Show tech-support export
 
 2. In addition, this data is also periodically captured and exported.
 
-To enable export feature:
+
 
 ### CLI commands
 
+To enable export feature:
 >##### sudo config export server username destdir protocol <server_ip> <username> <destination-directory> <scp|sftp>
 
 > where:
@@ -342,8 +343,9 @@ This will export show tech-support data, on detection of a new core file. In add
 https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths=true
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjE5NjcwNiwtODE4MDIyMTcsMzUyMz
-I4MTIxLDMzODM2NzQ0NSwtNDUxNzkyNjY3LC0xODAyNzAwNTcx
-LC00NjA4MTQ3OCwtMTY0NTYxNzc5OCwtMTUyMDg4MTg5NywtMT
-E2NDY0NDA2LC00MDM3MDEwMTYsMTg1MzU3NDIyNV19
+eyJoaXN0b3J5IjpbOTY2NDIxNzA2LDE5MzIxOTY3MDYsLTgxOD
+AyMjE3LDM1MjMyODEyMSwzMzgzNjc0NDUsLTQ1MTc5MjY2Nywt
+MTgwMjcwMDU3MSwtNDYwODE0NzgsLTE2NDU2MTc3OTgsLTE1Mj
+A4ODE4OTcsLTExNjQ2NDQwNiwtNDAzNzAxMDE2LDE4NTM1NzQy
+MjVdfQ==
 -->
