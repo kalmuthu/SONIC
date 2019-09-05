@@ -7,37 +7,21 @@
 ## Table of Contents
 
 * [List of Tables](#list-of-tables)
-
 * [Revision](#revision)
-
 * [About This Manual](#about-this-manual)
-
 * [Scope](#scope)
-
 * [Definition/Abbreviation](#definitionabbreviation)
-
 * [Requirements Overview](#requirements-overview)
-
 * [Functional Requirements](#functional-requirements)
-
 * [Scalability Requirements](#scalability-requirements)
-
 * [Warmboot Requirements](#warmboot-requirements)
-
 * [Configuration and Management Requirements](#configuration-and-management-requirements)
-
 * [Functional Description](#functional-description)
-
 * [Design](#design)
-
 * [Overview](#overview)
-
 * [CLI](#cli)
-
 * [Serviceability and DEBUG](#serviceability-and-debug)
-
 * [Warm Boot Support](#warm-boot-support)
-
 * [Unit Test](#unit-test)
 
 # List of Tables
@@ -342,7 +326,7 @@ This will export show tech-support data, on detection of a new core file. In add
 https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths=true
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODczOTYwNzM4LC0yMDgzODI5NzU1LDE5Mz
+eyJoaXN0b3J5IjpbNDE3Njc0NTk0LC0yMDgzODI5NzU1LDE5Mz
 IxOTY3MDYsLTgxODAyMjE3LDM1MjMyODEyMSwzMzgzNjc0NDUs
 LTQ1MTc5MjY2NywtMTgwMjcwMDU3MSwtNDYwODE0NzgsLTE2ND
 U2MTc3OTgsLTE1MjA4ODE4OTcsLTExNjQ2NDQwNiwtNDAzNzAx
