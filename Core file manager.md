@@ -1,4 +1,5 @@
 
+
 # Core file manager
 
 ## High Level Design Document
@@ -262,10 +263,8 @@ This will export show tech-support data, on detection of a new core file. In add
 https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths=true
 
 
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjM4Mjk5MiwtMjA4MzgyOTc1NSwxOT
+eyJoaXN0b3J5IjpbMTU3MTY4NDMyMiwtMjA4MzgyOTc1NSwxOT
 MyMTk2NzA2LC04MTgwMjIxNywzNTIzMjgxMjEsMzM4MzY3NDQ1
 LC00NTE3OTI2NjcsLTE4MDI3MDA1NzEsLTQ2MDgxNDc4LC0xNj
 Q1NjE3Nzk4LC0xNTIwODgxODk3LC0xMTY0NjQ0MDYsLTQwMzcw
