@@ -299,10 +299,9 @@ Show tech-support export
 
 2. In addition, this data is also periodically captured and exported.
 
-
-# CLI commands
-### Periodic Export of Core files
 To enable export feature:
+
+### CLI commands
 
 >##### sudo config export server username destdir protocol <server_ip> <username> <destination-directory> <scp|sftp>
 
@@ -343,9 +342,9 @@ This will export show tech-support data, on detection of a new core file. In add
 https://drive.google.com/drive/u/0/folders/1jzVr93Kf9lY-eYmxjmUO86ugQzFLVp0J?ths=true
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODM4Mjk3NTUsMTkzMjE5NjcwNiwtOD
-E4MDIyMTcsMzUyMzI4MTIxLDMzODM2NzQ0NSwtNDUxNzkyNjY3
-LC0xODAyNzAwNTcxLC00NjA4MTQ3OCwtMTY0NTYxNzc5OCwtMT
-UyMDg4MTg5NywtMTE2NDY0NDA2LC00MDM3MDEwMTYsMTg1MzU3
-NDIyNV19
+eyJoaXN0b3J5IjpbODczOTYwNzM4LC0yMDgzODI5NzU1LDE5Mz
+IxOTY3MDYsLTgxODAyMjE3LDM1MjMyODEyMSwzMzgzNjc0NDUs
+LTQ1MTc5MjY2NywtMTgwMjcwMDU3MSwtNDYwODE0NzgsLTE2ND
+U2MTc3OTgsLTE1MjA4ODE4OTcsLTExNjQ2NDQwNiwtNDAzNzAx
+MDE2LDE4NTM1NzQyMjVdfQ==
 -->
